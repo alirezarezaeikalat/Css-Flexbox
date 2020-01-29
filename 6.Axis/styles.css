@@ -1,0 +1,31 @@
+.wrapper {
+  width: 100%;
+  max-width: 1200px;
+  
+}
+
+.flex-container {
+  display: flex;
+  background: #fff;
+  height: 600px;
+  flex-wrap: wrap;
+  flex-flow: row;
+  align-items: center;
+}
+
+.box {
+  height: 100px;
+  flex: 0 0 100px;
+}
+
+.one {
+  background: red;
+}
+
+.two {
+  background: green;
+}
+
+.three {
+  background: blue;
+}
