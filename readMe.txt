@@ -5,7 +5,7 @@
   b. every direct child element become flex item
       and by becoming flex item they come next to each other
       (even the block) (min-width is important flex items)
-      (Flex items by default don't have any width)
+      (Flex items by default don't have any width or height)
 
 2. Using flex-grow: num; to give the growth rate of 
     each flex item (some how it is like the number of the columns)
